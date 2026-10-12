@@ -112,7 +112,7 @@ Key technologies:
 Status: Live application with ongoing development.
 
 [![May's Job Matcher](https://img.shields.io/badge/May's_Job_Matcher-AI_Job_Search-008C95?style=for-the-badge)](https://github.com/maynowak/mays-jobsearch)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Application-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mays-job-matcher.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Application-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mays-job-matcher.app)
 
 ---
 
