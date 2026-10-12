@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Nowak 👋
+# Hi, I'm (May)milly 👋
 
 ### Senior Software Architect | Cloud & AI Engineering
 ### AWS · Terraform · Agentic Systems · DevOps
