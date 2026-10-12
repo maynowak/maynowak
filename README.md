@@ -67,7 +67,6 @@ Key technologies:
 
 Status: Active development with verified platform components.
 
-[Explore Mays-RIS](https://github.com/maynowak/Mays-Recruiting-Intelligence-System)
 [![Mays-RIS](https://img.shields.io/badge/Mays--RIS-Agent_Platform-844FBA?style=for-the-badge)](https://github.com/maynowak/Mays-Recruiting-Intelligence-System)
 
 ---
