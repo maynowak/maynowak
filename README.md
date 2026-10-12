@@ -30,9 +30,13 @@ Generative AI, and AI-assisted development.
 
 ### 🧠 AI Engineering
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 💻 Software Engineering
 
@@ -47,6 +51,7 @@ Generative AI, and AI-assisted development.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 --
 
 ## 🚀 Featured Projects
@@ -87,7 +92,7 @@ Key technologies:
 Status: Validated release candidate with documented
 AWS integration tests.
 
-[Explore Mays Orders AWS](https://github.com/maynowak/mays-order-aws)
+[![Mays Orders AWS](https://img.shields.io/badge/Mays_Orders_AWS-Serverless_Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/maynowak/mays-order-aws)
 
 ---
 
@@ -106,9 +111,8 @@ Key technologies:
 
 Status: Live application with ongoing development.
 
-[GitHub Repository](https://github.com/maynowak/mays-jobsearch)
-
-[Live Application](https://www.mays-job-matcher.app)
+[![May's Job Matcher](https://img.shields.io/badge/May's_Job_Matcher-AI_Job_Search-008C95?style=for-the-badge)](https://github.com/maynowak/mays-jobsearch)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Application-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mays-job-matcher.app)
 
 ---
 
